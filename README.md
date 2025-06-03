@@ -1,0 +1,2 @@
+# verianaliz
+veri seti analizi
