@@ -27,5 +27,5 @@ Bu proje, **UCI Car Evaluation** veri seti üzerinde karar ağacı algoritması 
 - Optimize Edilmiş Doğruluk (depth=10): **%98,26**
 - Sınıflandırma raporu, özellikle "unacc" ve "acc" sınıflarında yüksek başarı göstermiştir.
 
-## 🗂️ Dosya Yapısı
+
 
